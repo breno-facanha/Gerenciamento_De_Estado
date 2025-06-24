@@ -13,6 +13,16 @@ export default function Temp() {
                 <div>2</div>
                 <div>3</div>
             </Area>
+            <Area titulo="Tesde do componente " sumario=" R$1.250,00" cor="green">
+                <div>1</div>
+                <div>2</div>
+                <div>3</div>
+            </Area>
+            <Area titulo="Tesde do componente " sumario=" R$1.250,00" cor="yellow">
+                <div>1</div>
+                <div>2</div>
+                <div>3</div>
+            </Area>
         </div>
     )
 }

@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
+@source inline('{sm:,md:,lg:,xl:,}bg-{red,blue,green,yellow,purple,pink}-{100..900}');
 :root {
   --background: #ffffff;
   --foreground: #171717;
