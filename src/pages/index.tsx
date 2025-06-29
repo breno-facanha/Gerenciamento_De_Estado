@@ -17,6 +17,7 @@ export default function Home() {
       <div className="flex flex-wrap justify-around w-3/5">
         <MenuItem icone={<TbForms />} texto="Estado" url="/revisao/estado" />
         <MenuItem icone={<TbArrowsDownUp />} texto="Comunicação" url="/revisao/comunicacao" />
+        <MenuItem icone={<TbArrowsDownUp />} texto="Básico" url="/basico" />
       </div>
     </div>
   );
